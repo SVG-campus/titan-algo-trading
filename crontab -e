@@ -1,0 +1,5 @@
+# 1. ORACLE CHECK (8:50 AM EST / 13:50 UTC)
+50 13 * * 1-5 /usr/bin/python3 /home/ubuntu/titan_oracle.py >> /home/ubuntu/titan_logs/oracle.log 2>&1
+
+# 2. AI VALIDATION (8:55 AM EST / 13:55 UTC)
+55 13 * * 1-5 /home/ubuntu/titan_env/bin/python3 /home/ubuntu/titan_ai.py >> /home/ubuntu/titan_logs/ai.log 2>&1

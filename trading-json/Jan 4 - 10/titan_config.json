@@ -1,0 +1,7 @@
+{
+  "SXTC": {"dev": 2.0, "trail_pct": 0.1, "exit": "MEDIAN", "entry": "TOUCH", "score": 4007},
+  "IPHA": {"dev": 2.0, "trail_pct": 0.1, "exit": "UPPER", "entry": "TOUCH", "score": 1657},
+  "PYPD": {"dev": 2.5, "trail_pct": 0.1, "exit": "UPPER", "entry": "TOUCH", "score": 1530},
+  "MFI": {"dev": 2.5, "trail_pct": 0.1, "exit": "MEDIAN", "entry": "TOUCH", "score": 1438},
+  "SNWV": {"dev": 2.0, "trail_pct": 0.1, "exit": "MEDIAN", "entry": "TOUCH", "score": 1280}
+}
